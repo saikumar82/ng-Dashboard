@@ -1,4 +1,4 @@
-<img width="730" height="881" alt="image" src="https://github.com/user-attachments/assets/b657d7ea-9049-4bdd-b67e-5db68a7c72ed" />
+<img width="1872" height="956" alt="image" src="https://github.com/user-attachments/assets/f578aa2c-16a6-4580-ad6c-95e6e70e36c0" />
 
 # DynamicDashboard
 
