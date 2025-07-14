@@ -1,3 +1,5 @@
+<img width="730" height="881" alt="image" src="https://github.com/user-attachments/assets/b657d7ea-9049-4bdd-b67e-5db68a7c72ed" />
+
 # DynamicDashboard
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.16.
